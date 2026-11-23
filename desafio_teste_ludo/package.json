@@ -1,0 +1,11 @@
+{
+  "name": "desafio_teste_ludo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test jogo.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
